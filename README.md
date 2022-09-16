@@ -8,7 +8,7 @@ Projeto construído durante o evento Next Level Week da Rocketseat
 
 [Clique aqui para acessar](https://diegonicacioviana.github.io/nlw-esports-explorer)
 
-##  Tecnologias
+## Tecnologias
 
 - HTML
 - CSS
